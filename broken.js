@@ -1,4 +1,4 @@
-const x = 5;
+const x = 5
 
 function double (x) {
   return x * 2
