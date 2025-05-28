@@ -6,3 +6,4 @@ function double(x) {
 }
 
 console.log("Dubbelt av 5 är " + double(x));
+
